@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+ h1{
+    background-color: rgb(66, 4, 66);
+    
+} 
+
+ .tic_tac_toe{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+
+.container{
+
+}
